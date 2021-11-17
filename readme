@@ -2,5 +2,5 @@ ubuntu16.04(gcc5.5,glib2.23)
 ns3:3.34
 dce-ns3-1.11 dce-quagga-1.11
 implement with bake
-use:
+use with docker:
 docker pull ciqu2737/ubuntu16.04-ns3-dce-quagga:latest
